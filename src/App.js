@@ -23,7 +23,6 @@ class Counter extends Component{
       </React.Fragment>
     )
   }
-  
 }
 
 
